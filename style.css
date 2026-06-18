@@ -19,6 +19,7 @@ body{
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
+<<<<<<< HEAD
 .parametro-senha__texto{
 padding: 24px;
 border-top: 2px solid var(--borda);
@@ -26,3 +27,13 @@ border-bottom: 2px solid var(--borda);
 margin: 0;
 font-size: 24px;
 }
+parametro-senha__botao{
+background-color: var(--fundo-texto);
+color: var(--branco);
+border: 2px solid var(--borda);
+padding: 24px;
+font-size: 24px;
+cursor: pointer;
+}
+=======
+>>>>>>> 8c0d18333c2c1588cc1b220bfde3c726c6f249e0
