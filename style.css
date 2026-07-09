@@ -86,6 +86,12 @@ body{
     width: 50%;
     margin: 0 auto;
 }
+
+.parametro-senha-botoes {
+    display: flex;
+    justify-content: center;
+}
+
 .parametro-senha__texto{
 padding: 24px;
 border-top: 2px solid var(--borda);
